@@ -16,7 +16,7 @@
 1.   [Introduction](#Introduction)
 2.   [Filosofi](#Filosofi)
 3.   [Latar Belakang](#Latar-Belakang)
-4.   [Tujuan](#Tujuan
+4.   [Tujuan](#Tujuan)
 
 
 ---
@@ -29,17 +29,17 @@ Dengan aplikasi booking jasa makeup, proses pemesanan menjadi lebih mudah, cepat
 
 Nikmati kemudahan dan kepuasan dalam setiap riasan, hanya dengan menggunakan aplikasi booking jasa makeup!
 
-### **Filosofi**
+### Filosofi
 keinginan untuk memberikan kemudahan dan kepercayaan diri kepada setiap individu, melalui pengalaman kecantikan yang personal dan profesional. Kami percaya bahwa setiap orang berhak untuk merasa istimewa dan percaya diri, tanpa terkendala oleh waktu, tempat, atau keterbatasan akses terhadap jasa kecantikan berkualitas.
 
 **"Kecantikan yang Tepat untuk Setiap Momen."**
 
-##**Latar Belakang**
+### Latar Belakang
 kebutuhan akan jasa kecantikan, khususnya makeup profesional, semakin meningkat. Banyak orang yang ingin tampil sempurna di acara-acara penting seperti pernikahan, pesta, atau pemotretan, namun tidak memiliki keterampilan atau waktu untuk merias diri sendiri.
 
 Proses pencarian dan pemesanan yang rumit, serta ketidakpastian tentang kualitas dan harga layanan, menjadi tantangan tersendiri bagi banyak orang. Selain itu, kesibukan yang tinggi dan keterbatasan waktu seringkali menghalangi mereka untuk mendapatkan jasa makeup yang berkualitas. Untuk itu, dibutuhkan sebuah solusi yang memudahkan masyarakat dalam menemukan dan memesan makeup artist dengan cara yang praktis dan efisien.
 
 Menyadari permasalahan tersebut, kami hadir dengan aplikasi booking jasa makeup, sebuah platform yang memberikan kemudahan akses kepada pengguna untuk menemukan, memilih, dan memesan makeup artist profesional, tanpa kesulitan atau proses yang memakan waktu. Aplikasi ini berfokus pada memberikan kenyamanan dan pengalaman terbaik bagi pengguna dalam merencanakan tampilan terbaik mereka.
 
-##**Tujuan**
+### Tujuan
 Aplikasi ini dikembangkan dengan tujuan utama nya Mempermudah Akses Jasa Makeup Profesional dan Memfasilitasi Komunikasi yang Efisien antara Pengguna dan Makeup Artist
