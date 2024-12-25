@@ -12,19 +12,26 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.YM_Apps"
         tools:targetApi="31">
+
+        <!-- Splash screen as the launcher activity -->
         <activity
-            android:name=".MainActivity"
+            android:name=".splash_screen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
 
+        <!-- Login page activity -->
+        <activity
+            android:name=".login_page"
+            android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+
     </application>
 
 </manifest>
